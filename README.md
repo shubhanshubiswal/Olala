@@ -1,4 +1,6 @@
-# Olala!Online Cab Booking Website
+# Olala!
+
+Online Cab Booking Website
 
 Web Project/using HTML, CSS, Java Script, JQuery and Bootstrap.
 
